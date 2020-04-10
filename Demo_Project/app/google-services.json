@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "616465565521",
+    "firebase_url": "https://lucasdemoproject.firebaseio.com",
+    "project_id": "lucasdemoproject",
+    "storage_bucket": "lucasdemoproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616465565521:android:fcb191268268e18637f570",
+        "android_client_info": {
+          "package_name": "fr.mds.demo_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616465565521-v3jh9llhorhn2jv3ekacqtv9t3dho1l8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANE2MbkDnOpPQFf031rSU3AlxjZSJKek8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616465565521-v3jh9llhorhn2jv3ekacqtv9t3dho1l8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
